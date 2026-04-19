@@ -1,0 +1,14 @@
+{
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2026-04-19 11:11:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-04-19 11:11:34 +0300"
+    },
+    "done": true
+  }
+}
